@@ -1,6 +1,6 @@
 var mate = {
 	wantsChildren: true, // bool
-	age: 27, // integer
+	age: 30, // integer
 	bodyType: 'slim', // string (slim/average/athletic/heavy)
 	playsInstrument: false, // bool
 }
